@@ -1,0 +1,9 @@
+# Go build files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go build directories
+/bin/
+/pkg/
